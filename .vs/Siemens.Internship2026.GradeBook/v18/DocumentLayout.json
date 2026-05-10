@@ -1,0 +1,201 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Siemens.Internship2026.GradeBook\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0ABFBBCA-20B8-615B-9B83-0DE0CD9A0799}|Siemens.Internship2026.GradeBook.csproj|e:\\siemens.internship2026.gradebook\\repositories\\graderepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0ABFBBCA-20B8-615B-9B83-0DE0CD9A0799}|Siemens.Internship2026.GradeBook.csproj|solutionrelative:repositories\\graderepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0ABFBBCA-20B8-615B-9B83-0DE0CD9A0799}|Siemens.Internship2026.GradeBook.csproj|e:\\siemens.internship2026.gradebook\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0ABFBBCA-20B8-615B-9B83-0DE0CD9A0799}|Siemens.Internship2026.GradeBook.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0ABFBBCA-20B8-615B-9B83-0DE0CD9A0799}|Siemens.Internship2026.GradeBook.csproj|e:\\siemens.internship2026.gradebook\\controllers\\gradecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0ABFBBCA-20B8-615B-9B83-0DE0CD9A0799}|Siemens.Internship2026.GradeBook.csproj|solutionrelative:controllers\\gradecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0ABFBBCA-20B8-615B-9B83-0DE0CD9A0799}|Siemens.Internship2026.GradeBook.csproj|e:\\siemens.internship2026.gradebook\\services\\gradeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0ABFBBCA-20B8-615B-9B83-0DE0CD9A0799}|Siemens.Internship2026.GradeBook.csproj|solutionrelative:services\\gradeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0ABFBBCA-20B8-615B-9B83-0DE0CD9A0799}|Siemens.Internship2026.GradeBook.csproj|e:\\siemens.internship2026.gradebook\\models\\grade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0ABFBBCA-20B8-615B-9B83-0DE0CD9A0799}|Siemens.Internship2026.GradeBook.csproj|solutionrelative:models\\grade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0ABFBBCA-20B8-615B-9B83-0DE0CD9A0799}|Siemens.Internship2026.GradeBook.csproj|e:\\siemens.internship2026.gradebook\\interfaces\\igradeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0ABFBBCA-20B8-615B-9B83-0DE0CD9A0799}|Siemens.Internship2026.GradeBook.csproj|solutionrelative:interfaces\\igradeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0ABFBBCA-20B8-615B-9B83-0DE0CD9A0799}|Siemens.Internship2026.GradeBook.csproj|e:\\siemens.internship2026.gradebook\\interfaces\\igraderepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0ABFBBCA-20B8-615B-9B83-0DE0CD9A0799}|Siemens.Internship2026.GradeBook.csproj|solutionrelative:interfaces\\igraderepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0ABFBBCA-20B8-615B-9B83-0DE0CD9A0799}|Siemens.Internship2026.GradeBook.csproj|e:\\siemens.internship2026.gradebook\\siemens.internship2026.gradebook.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{0ABFBBCA-20B8-615B-9B83-0DE0CD9A0799}|Siemens.Internship2026.GradeBook.csproj|solutionrelative:siemens.internship2026.gradebook.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0ABFBBCA-20B8-615B-9B83-0DE0CD9A0799}|Siemens.Internship2026.GradeBook.csproj|e:\\siemens.internship2026.gradebook\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{0ABFBBCA-20B8-615B-9B83-0DE0CD9A0799}|Siemens.Internship2026.GradeBook.csproj|solutionrelative:properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0ABFBBCA-20B8-615B-9B83-0DE0CD9A0799}|Siemens.Internship2026.GradeBook.csproj|e:\\siemens.internship2026.gradebook\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{0ABFBBCA-20B8-615B-9B83-0DE0CD9A0799}|Siemens.Internship2026.GradeBook.csproj|solutionrelative:appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0ABFBBCA-20B8-615B-9B83-0DE0CD9A0799}|Siemens.Internship2026.GradeBook.csproj|e:\\siemens.internship2026.gradebook\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{0ABFBBCA-20B8-615B-9B83-0DE0CD9A0799}|Siemens.Internship2026.GradeBook.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IGradeService.cs",
+              "DocumentMoniker": "E:\\Siemens.Internship2026.GradeBook\\Interfaces\\IGradeService.cs",
+              "RelativeDocumentMoniker": "Interfaces\\IGradeService.cs",
+              "ToolTip": "E:\\Siemens.Internship2026.GradeBook\\Interfaces\\IGradeService.cs",
+              "RelativeToolTip": "Interfaces\\IGradeService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-09T11:53:45.079Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "GradeService.cs",
+              "DocumentMoniker": "E:\\Siemens.Internship2026.GradeBook\\Services\\GradeService.cs",
+              "RelativeDocumentMoniker": "Services\\GradeService.cs",
+              "ToolTip": "E:\\Siemens.Internship2026.GradeBook\\Services\\GradeService.cs",
+              "RelativeToolTip": "Services\\GradeService.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAA3wCUAAABZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-09T11:55:16.043Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GradeController.cs",
+              "DocumentMoniker": "E:\\Siemens.Internship2026.GradeBook\\Controllers\\GradeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\GradeController.cs",
+              "ToolTip": "E:\\Siemens.Internship2026.GradeBook\\Controllers\\GradeController.cs",
+              "RelativeToolTip": "Controllers\\GradeController.cs",
+              "ViewState": "AgIAADUAAAAAAAAAAAAgwDYAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-22T10:22:20.98Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GradeRepository.cs",
+              "DocumentMoniker": "E:\\Siemens.Internship2026.GradeBook\\Repositories\\GradeRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\GradeRepository.cs",
+              "ToolTip": "E:\\Siemens.Internship2026.GradeBook\\Repositories\\GradeRepository.cs",
+              "RelativeToolTip": "Repositories\\GradeRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-22T10:23:28.102Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Siemens.Internship2026.GradeBook\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "E:\\Siemens.Internship2026.GradeBook\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-09T11:25:48.897Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IGradeRepository.cs",
+              "DocumentMoniker": "E:\\Siemens.Internship2026.GradeBook\\Interfaces\\IGradeRepository.cs",
+              "RelativeDocumentMoniker": "Interfaces\\IGradeRepository.cs",
+              "ToolTip": "E:\\Siemens.Internship2026.GradeBook\\Interfaces\\IGradeRepository.cs",
+              "RelativeToolTip": "Interfaces\\IGradeRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-22T10:23:17.631Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Grade.cs",
+              "DocumentMoniker": "E:\\Siemens.Internship2026.GradeBook\\Models\\Grade.cs",
+              "RelativeDocumentMoniker": "Models\\Grade.cs",
+              "ToolTip": "E:\\Siemens.Internship2026.GradeBook\\Models\\Grade.cs",
+              "RelativeToolTip": "Models\\Grade.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-22T10:34:37.451Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Siemens.Internship2026.GradeBook.csproj",
+              "DocumentMoniker": "E:\\Siemens.Internship2026.GradeBook\\Siemens.Internship2026.GradeBook.csproj",
+              "RelativeDocumentMoniker": "Siemens.Internship2026.GradeBook.csproj",
+              "ToolTip": "E:\\Siemens.Internship2026.GradeBook\\Siemens.Internship2026.GradeBook.csproj",
+              "RelativeToolTip": "Siemens.Internship2026.GradeBook.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-05-09T12:22:29.154Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "E:\\Siemens.Internship2026.GradeBook\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Properties\\launchSettings.json",
+              "ToolTip": "E:\\Siemens.Internship2026.GradeBook\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-05-09T11:25:03.12Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "E:\\Siemens.Internship2026.GradeBook\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "appsettings.Development.json",
+              "ToolTip": "E:\\Siemens.Internship2026.GradeBook\\appsettings.Development.json",
+              "RelativeToolTip": "appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-05-09T10:32:17.652Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "E:\\Siemens.Internship2026.GradeBook\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "E:\\Siemens.Internship2026.GradeBook\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-05-09T10:32:21.646Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
